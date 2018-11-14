@@ -75,6 +75,4 @@ public class Note implements Serializable {
     @Temporal(TemporalType.TIMESTAMP)
     @LastModifiedDate
     private Date updatedAt;
-
-    // Getters and Setters ... (Omitted for brevity)
 }
